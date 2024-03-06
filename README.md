@@ -6,8 +6,8 @@
 - 📍 I'm currently based in Marseille, France.
 
 - ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,git,github,vercel)
-![My Skills](https://skillicons.dev/icons?i=tailwind,mongodb,firebase,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,git,github,vercel)
+![My Skills](https://skillicons.dev/icons?i=tailwind,mongodb,firebase,figma,docker,graphql)
 
 <!---
 hugo-ribaud/hugo-ribaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
