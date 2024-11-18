@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hugo-ribaud
 - 👀 I’m interested in learning new technos
-- 💻 I'm currently available for a FullStack position
 - 💞️ I’m looking to collaborate on open sources projects
 - 📫 How to reach me contact@hugo-ribaud.com
 - 📍 I'm currently based in Marseille, France.
