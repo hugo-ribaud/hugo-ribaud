@@ -19,10 +19,12 @@ solo dev from scratch to production in 9 months.
 
 ## Stack I actually use daily
 
-![](https://skillicons.dev/icons?i=ts,react,next,reactnative,expo,supabase,postgres,vercel)
+![](https://skillicons.dev/icons?i=ts,react,next,supabase,postgres,vercel)
 ![](https://skillicons.dev/icons?i=tailwind,figma,git,docker,n8n)
 
-## Based in Marseille · Available for freelance (April 2026)
+*Also: React Native / Expo (iOS & Android)*
+
+## Based in Marseille · Available for freelance
 
 📩 contact@hugo-ribaud.com  
 🌐 [hugo-ribaud.com](https://hugo-ribaud.com)  
