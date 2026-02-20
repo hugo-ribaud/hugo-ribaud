@@ -24,6 +24,6 @@ solo dev from scratch to production in 9 months.
 
 ## Based in Marseille · Available for freelance (April 2026)
 
-📩 hugo.ribaud.dev@gmail.com  
+📩 contact@hugo-ribaud.com  
 🌐 [hugo-ribaud.com](https://hugo-ribaud.com)  
 💼 [LinkedIn](https://linkedin.com/in/hugo-ribaud)
