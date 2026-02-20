@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @hugo-ribaud
-- 👀 I’m interested in learning new technos
-- 💞️ I’m looking to collaborate on open sources projects
-- 📫 How to reach me contact@hugo-ribaud.com
-- 📍 I'm currently based in Marseille, France.
+# Hugo Ribaud — Full-Stack Developer
 
-- ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,git,github,vercel)
-![My Skills](https://skillicons.dev/icons?i=tailwind,mongodb,firebase,figma,docker,graphql,supabase,n8n)
+> I build web and mobile apps that replace spreadsheets, paper processes, 
+> and duct-taped tools — for companies that are done improvising.
 
-<!---
-hugo-ribaud/hugo-ribaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I ship
+
+- **Web apps** (Next.js + Supabase) — from MVP to production-grade
+- **Mobile apps** (React Native / Expo) — iOS + Android, single codebase
+- **Admin dashboards & back-offices** — so your team can manage without calling IT
+
+## Recent work
+
+Built a cross-platform mobile app + custom CMS for an international facilities 
+management company — deployed across **10 sites, 5,000+ active users**, 
+solo dev from scratch to production in 9 months.
+
+→ [Full case study on my portfolio](https://hugo-ribaud.com)
+
+## Stack I actually use daily
+
+![](https://skillicons.dev/icons?i=ts,react,next,reactnative,expo,supabase,postgres,vercel)
+![](https://skillicons.dev/icons?i=tailwind,figma,git,docker,n8n)
+
+## Based in Marseille · Available for freelance (April 2026)
+
+📩 hugo.ribaud.dev@gmail.com  
+🌐 [hugo-ribaud.com](https://hugo-ribaud.com)  
+💼 [LinkedIn](https://linkedin.com/in/hugo-ribaud)
